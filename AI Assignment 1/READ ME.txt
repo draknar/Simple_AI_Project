@@ -1,0 +1,7 @@
+The point of this game is to corner the opponent's pieces into one spot.
+You can move any group of pieces in any direction.
+They will keep moving in that direction until they meet a wall or an opponent's piece.
+If the group moves more than 1 space, it leaves behind pieces, except for it's starting location,
+in a [0, 1, 2, the rest] pattern.
+
+directions go from 1 to 8 in a clockwise direction, starting with 1 as UP. 
